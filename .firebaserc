@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-github-searcher-6486f": {
+      "hosting": {
+        "github-login-firebase": [
+          "angular-github-searcher-6486f"
+        ]
+      }
+    }
+  }
+}
